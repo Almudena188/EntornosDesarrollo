@@ -12,7 +12,7 @@ import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
 import javax.swing.DropMode;
 
-public class Ventana {
+public class Calculadora {
 
 	private JFrame frame;
 	private JTextField num1TF;
@@ -26,7 +26,7 @@ public class Ventana {
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {
 				try {
-					Ventana window = new Ventana();
+					Calculadora window = new Calculadora();
 					window.frame.setVisible(true);
 				} catch (Exception e) {
 					e.printStackTrace();
@@ -38,7 +38,7 @@ public class Ventana {
 	/**
 	 * Create the application.
 	 */
-	public Ventana() {
+	public Calculadora() {
 		initialize();
 	}
 
