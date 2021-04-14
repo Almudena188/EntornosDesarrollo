@@ -2,6 +2,8 @@
 # 📋 Ejercicio 1
   Realizar un proyecto Java en modo gráfico que implemente el siguiente ejercicio:
   
+  * Versión Enunciado:
+  
   Haz clic [aqui](https://github.com/Almudena188/EntornosDesarrollo/blob/main/src/Ejercicios13042021/Calculadora.java) para ver el ejercicio.
 # 📋 Ejercicio 2
   Crear el siguiente diagrama E/R en el plugin E-R Master para eclipse y obtener el código exportado a mysql.
