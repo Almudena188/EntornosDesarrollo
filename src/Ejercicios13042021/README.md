@@ -6,7 +6,7 @@
   
   ![enunciado](https://github.com/Almudena188/EntornosDesarrollo/blob/main/src/Ejercicios13042021/CapturaEnunciado.PNG?raw=true "Versión Enunciado")
   
-  * Versión Mia:
+  * Versión final:
 
   ![calculadora](https://github.com/Almudena188/EntornosDesarrollo/blob/main/src/Ejercicios13042021/Captura.PNG?raw=true "Ejercicio Calculadora")
   
