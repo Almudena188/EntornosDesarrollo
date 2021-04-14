@@ -4,11 +4,11 @@
   
   * Versión Enunciado:
   
-  ![enunciado](https://github.com/Almudena188/EntornosDesarrollo/blob/main/src/Ejercicios13042021/Captura.PNG?raw=true "Versión Enunciado")
+  ![enunciado](https://github.com/Almudena188/EntornosDesarrollo/blob/main/src/Ejercicios13042021/CapturaEnunciado.PNG?raw=true "Versión Enunciado")
   
   * Versión Mia:
 
-  ![calculadora](https://github.com/Almudena188/EntornosDesarrollo/blob/main/src/Ejercicios13042021/Captura2.PNG?raw=true "Ejercicio Calculadora")
+  ![calculadora](https://github.com/Almudena188/EntornosDesarrollo/blob/main/src/Ejercicios13042021/Captura.PNG?raw=true "Ejercicio Calculadora")
   
   Haz clic [aqui](https://github.com/Almudena188/EntornosDesarrollo/blob/main/src/Ejercicios13042021/Calculadora.java) para ver el ejercicio.
 # 📋 Ejercicio 2
