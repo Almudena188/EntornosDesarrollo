@@ -1,6 +1,6 @@
 ![Titulo](https://github.com/Almudena188/EntornosDesarrollo/blob/main/imagenes/titulo.png?raw=true "Entornos de Desarrollo")
 # 📋Introducción
-  Este repositorio está creado para subir los proyectos y ejercicios de la asignatura de Entornos de Desarrollo.
+  Este repositorio está creado para subir los proyectos y ejercicios de la asignatura de Entornos de Desarrollo de 1º FP de Desarrollo de Aplicaciones Web
   
   
   * Cualquier duda respecto a este repositorio o ejercicio, le dejo mi e-mail para ponerse en contacto:
