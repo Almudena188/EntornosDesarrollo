@@ -4,17 +4,17 @@
   
   * Versión Enunciado:
   
-  ![enunciado](https://github.com/Almudena188/EntornosDesarrollo/blob/main/src/Ejercicios13042021/Captura.PNG?raw=true)
+  ![enunciado](https://github.com/Almudena188/EntornosDesarrollo/blob/main/src/Ejercicios13042021/Captura.PNG?raw=true "Versión Enunciado")
   
   * Versión Mia:
 
-  ![calculadora](https://github.com/Almudena188/EntornosDesarrollo/blob/main/src/Ejercicios13042021/Captura2.PNG?raw=true)
+  ![calculadora](https://github.com/Almudena188/EntornosDesarrollo/blob/main/src/Ejercicios13042021/Captura2.PNG?raw=true "Ejercicio Calculadora")
   
   Haz clic [aqui](https://github.com/Almudena188/EntornosDesarrollo/blob/main/src/Ejercicios13042021/Calculadora.java) para ver el ejercicio.
 # 📋 Ejercicio 2
   Crear el siguiente diagrama E/R en el plugin E-R Master para eclipse y obtener el código exportado a mysql.
   
-  ![entidad/relacion](https://github.com/Almudena188/EntornosDesarrollo/blob/main/src/Ejercicios13042021/Captura3.PNG?raw=true)
+  ![entidad/relacion](https://github.com/Almudena188/EntornosDesarrollo/blob/main/src/Ejercicios13042021/Captura3.PNG?raw=true "Entidad/Relación")
   
    Haz clic [aqui](https://github.com/Almudena188/EntornosDesarrollo/blob/main/src/Ejercicios13042021/ejercicioERMaster.erm) para ver el código de de la parte gráfica del      ejercicio.
    
