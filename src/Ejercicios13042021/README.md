@@ -14,7 +14,11 @@
 # 📋 Ejercicio 2
   Crear el siguiente diagrama E/R en el plugin E-R Master para eclipse y obtener el código exportado a mysql.
   
-   Haz clic [aqui](https://github.com/Almudena188/EntornosDesarrollo/blob/main/src/Ejercicios13042021/ejercicioERMaster.erm) para ver el código de de la parte gráfica del ejercicio.
+  ![entidad/relacion](https://github.com/Almudena188/EntornosDesarrollo/blob/main/src/Ejercicios13042021/Captura3.PNG?raw=true)
+  
+   Haz clic [aqui](https://github.com/Almudena188/EntornosDesarrollo/blob/main/src/Ejercicios13042021/ejercicioERMaster.erm) para ver el código de de la parte gráfica del      ejercicio.
+   
+   
    Haz clic [aqui](https://github.com/Almudena188/EntornosDesarrollo/blob/main/src/Ejercicios13042021/ejercicioERMaster.sql) para ver el ejercicio en MySQL.
    
  # 📋 Ejercicio 3
