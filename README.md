@@ -6,7 +6,7 @@
   * Cualquier duda respecto a este repositorio o ejercicio, le dejo mi e-mail para ponerse en contacto:
 
 
-  [![Gmail Badge](https://img.shields.io/badge/-denaa188@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:denaa188@gmail.com)](mailto:denaa188@gmail.com)
+       [![Gmail Badge](https://img.shields.io/badge/-denaa188@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:denaa188@gmail.com)](mailto:denaa188@gmail.com)
 
 # ✒️ Autor 
 Almudena Delgado Moscoso
