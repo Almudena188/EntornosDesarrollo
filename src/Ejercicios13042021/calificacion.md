@@ -1,4 +1,10 @@
- ![nota](https://github.com/Almudena188/EntornosDesarrollo/blob/main/src/Ejercicios13042021/imagenes/diez.jpeg?raw=true "Practica Tema 2")
+ 
+ <p align="center">
+  <img width="460" height="300" src="https://github.com/Almudena188/EntornosDesarrollo/blob/main/src/Ejercicios13042021/imagenes/diez.jpeg">
+</p>
 
-![calificacion](https://github.com/Almudena188/EntornosDesarrollo/blob/main/src/Ejercicios13042021/imagenes/nota.jpeg?raw=true "Practica Tema 2")
+ 
+ <p align="center">
+  <img width="460" height="300" src="https://github.com/Almudena188/EntornosDesarrollo/blob/main/src/Ejercicios13042021/imagenes/nota.jpeg">
+</p>
  
