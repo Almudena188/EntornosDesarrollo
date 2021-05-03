@@ -25,6 +25,12 @@ Haz un programa que replique a una calculadora de un teléfono móvil con el pro
  * Y cuando realizas una operación y haces clic en el botón de igual (=) se abre una nueva ventana con el resultado
  <img width="250" height="500" src="https://github.com/Almudena188/EntornosDesarrollo/blob/main/src/Calculadora/Imagenes/WhatsApp%20Image%202021-05-03%20at%2012.32.43%20(1).jpeg"/>
  
+ # 📋 ENLACES DE INTERÉS
+ 
+ * Haz clic [aquí](https://github.com/Almudena188/EntornosDesarrollo/blob/main/src/Calculadora/app/src/main/res/layout/activity_principal.xml) para llegar al archivo de activityPrincipal.
+  * Haz clic [aquí](https://github.com/Almudena188/EntornosDesarrollo/blob/main/src/Calculadora/app/src/main/res/layout/activity_resulado.xml) para llegar al archivo de acivityResultado.
+  * Haz clic [aquí](https://github.com/Almudena188/EntornosDesarrollo/blob/main/src/Calculadora/app/src/main/res/values/strings.xml) para llegar al archivo donde he cambiado el nombre de la app.
+  * Haz clic [aquí](https://github.com/Almudena188/EntornosDesarrollo/blob/main/src/Calculadora/app/src/main/res/values/colors.xml) para llegar al archivo donde he cambiado los colores de la aplicación.
 
 # ✒️ Autor 
 Almudena Delgado Moscoso
