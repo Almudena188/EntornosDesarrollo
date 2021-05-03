@@ -27,8 +27,8 @@ Haz un programa que replique a una calculadora de un teléfono móvil con el pro
  
  # 📋 ENLACES DE INTERÉS
  
- * Haz clic [aquí](https://github.com/Almudena188/EntornosDesarrollo/blob/main/src/Calculadora/app/src/main/res/layout/activity_principal.xml) para llegar al archivo de activityPrincipal.
-  * Haz clic [aquí](https://github.com/Almudena188/EntornosDesarrollo/blob/main/src/Calculadora/app/src/main/res/layout/activity_resulado.xml) para llegar al archivo de acivityResultado.
+ * Haz clic [aquí](https://github.com/Almudena188/EntornosDesarrollo/blob/main/src/Calculadora/app/src/main/java/com/example/calculator/Principal.java) para llegar al archivo de activityPrincipal.
+  * Haz clic [aquí](https://github.com/Almudena188/EntornosDesarrollo/blob/main/src/Calculadora/app/src/main/java/com/example/calculator/ActivityResultado.java) para llegar al archivo de acivityResultado.
   * Haz clic [aquí](https://github.com/Almudena188/EntornosDesarrollo/blob/main/src/Calculadora/app/src/main/res/values/strings.xml) para llegar al archivo donde he cambiado el nombre de la app.
   * Haz clic [aquí](https://github.com/Almudena188/EntornosDesarrollo/blob/main/src/Calculadora/app/src/main/res/values/colors.xml) para llegar al archivo donde he cambiado los colores de la aplicación.
 
