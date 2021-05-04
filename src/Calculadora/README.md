@@ -13,7 +13,16 @@ Haz un programa que replique a una calculadora de un teléfono móvil con el pro
 <img width="250" height="500" src="https://github.com/Almudena188/EntornosDesarrollo/blob/main/src/Calculadora/Imagenes/WhatsApp%20Image%202021-05-03%20at%2012.32.43%20(2).jpeg"/>
 
 # 📋 DESARROLLO
+Es una pequeña aplicación android que resuelve operaciones sencillas.
+Esta calculadora puede realiza: 
+* Sumas
+* Restas
+* Multiplicaciones
+* Divisiones
+<br/>
+
 * He personalizado el icono de la aplicación:
+
  <img width="250" height="250" src="https://github.com/Almudena188/EntornosDesarrollo/blob/main/src/Calculadora/Imagenes/icon.jpg"/>
  
 * La cual una vez que instalas la app se queda asi:
