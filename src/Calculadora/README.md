@@ -12,6 +12,11 @@ Haz un programa que replique a una calculadora de un teléfono móvil con el pro
 
 <img width="250" height="500" src="https://github.com/Almudena188/EntornosDesarrollo/blob/main/src/Calculadora/Imagenes/WhatsApp%20Image%202021-05-03%20at%2012.32.43%20(2).jpeg"/>
 
+# 📋 VIDEO
+[![HAZ CLIC AQUI PARA VER EL VIDEO](https://github.com/Almudena188/EntornosDesarrollo/blob/main/src/Calculadora/Imagenes/portada2.png)](https://youtu.be/hu4GRYpCaHk)
+
+
+
 # 📋 DESARROLLO
 Es una pequeña aplicación android que resuelve operaciones sencillas.
 Esta calculadora puede realiza: 
@@ -20,6 +25,8 @@ Esta calculadora puede realiza:
 * Multiplicaciones
 * Divisiones
 <br/>
+
+
 
 * He personalizado el icono de la aplicación:
 
